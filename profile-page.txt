@@ -1,3 +1,4 @@
 se desarrola la pagina de perfil
 proactivo agrega funciones a pagina perfil
 se añade descripcion al perfil
+se corrigen errores encontrados en produccion por el cliente final
