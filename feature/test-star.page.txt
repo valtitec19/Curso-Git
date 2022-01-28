@@ -1,2 +1,0 @@
-se crean las pruebas unitarias de star page
-se corren pruebas
